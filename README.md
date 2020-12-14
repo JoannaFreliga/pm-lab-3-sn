@@ -15,4 +15,7 @@ Grupa studencka: WEL18DE1S1
 # Odpowiedzi do pytań z instrukcji
 ...
 1. W jaki sposób można rozbudować funkcjonalność programu w przypadku gdy liczba naciśnięć przycisku przekroczy określona ilość?
-Odp.: 
+Odp.:  Gdy liczba naciśnięć przekroczy określoną wartość to definiujemy je na nowo w kodzie.
+
+2. W jaki sposób można zwiększyć liczbę obsługiwanych poleceń oraz liczbę obsługiwanych parametrów?
+Odp.: Zwiększyć szybkość transmisji.
