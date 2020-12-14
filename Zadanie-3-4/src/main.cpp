@@ -1,7 +1,6 @@
 #include <avr/io.h>
 #include <avr/interrupt.h>
 
-
 int main(void) {
   DDRD &= ~(1 << DDD5);
   PORTD |= (1 << PORTD5);
